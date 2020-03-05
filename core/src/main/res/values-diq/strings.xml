@@ -114,6 +114,15 @@
   <string name="time_yesterday">Vızêr</string>
   <string name="external_link_popup_dialog_title">Şono gıreyê beberi</string>
   <string name="do_not_ask_anymore">Endi meperse</string>
+  <string name="pending_state">Vındarde</string>
+  <string name="running_state">Rameno</string>
+  <string name="complete">Temam</string>
+  <string name="paused_state">Vındarneya</string>
   <string name="status">Weziyet</string>
+  <string name="tag_pic">Resım</string>
+  <string name="tag_vid">Video</string>
+  <string name="tag_text_only">Teyna metin</string>
+  <string name="tag_short_text">Metino kılm</string>
+  <string name="storage_permission_denied">İcazetê depoy red biyo</string>
   <string name="no_bookmarks">Nişani çıniyê</string>
 </resources>
